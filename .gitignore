@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+*.tif
+*.zip
+logs.log
+
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+
+*.png
+*.pth
+
+!validation_map.tif
